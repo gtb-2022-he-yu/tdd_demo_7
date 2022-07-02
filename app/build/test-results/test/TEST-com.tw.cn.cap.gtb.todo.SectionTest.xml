@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.cn.cap.gtb.todo.SectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-02T14:23:02" hostname="LAPTOP-46CMOSE9" time="0.0">
+  <properties/>
+  <testcase name="should_show_hint_message_when_section_has_no_tasks()" classname="com.tw.cn.cap.gtb.todo.SectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

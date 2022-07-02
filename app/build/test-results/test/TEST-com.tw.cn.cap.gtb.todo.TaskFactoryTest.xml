@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.cn.cap.gtb.todo.TaskFactoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-02T14:23:02" hostname="LAPTOP-46CMOSE9" time="0.001">
+  <properties/>
+  <testcase name="should_support_name_with_multiple_white_spaces()" classname="com.tw.cn.cap.gtb.todo.TaskFactoryTest" time="0.0"/>
+  <testcase name="should_parse_completed_property_for_task()" classname="com.tw.cn.cap.gtb.todo.TaskFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
